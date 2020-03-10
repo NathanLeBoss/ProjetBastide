@@ -11,6 +11,14 @@ package initiationgit;
  */
 public class Initiation {
     
+	private int niveau; 
     //premiere modif
+	// Modif de BORDE MARTIN
+	public void Initiation(){
+		niveau =0;
+	}
+	public void augmenterNiveau(){
+		niveau++;	
+	}
     
 }
