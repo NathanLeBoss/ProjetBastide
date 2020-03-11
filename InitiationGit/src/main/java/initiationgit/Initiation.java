@@ -14,6 +14,7 @@ public class Initiation {
 	private int niveau; 
     //premiere modif
 	// Modif de BORDE MARTIN
+	// modif de nathan ferrer
 	public void Initiation(){
 		niveau =0;
 	}
